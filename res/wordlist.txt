@@ -162,7 +162,6 @@ amiss
 ammonia
 ammonium
 amnesty
-amniotic
 among
 amount
 amperage
@@ -188,7 +187,6 @@ ancient
 android
 anemia
 anemic
-aneurism
 anew
 angelfish
 angelic
@@ -308,7 +306,6 @@ army
 aroma
 arose
 around
-arousal
 arrange
 array
 arrest
@@ -446,7 +443,6 @@ backyard
 bacon
 bacteria
 bacterium
-badass
 badge
 badland
 badly
@@ -568,7 +564,6 @@ bloated
 bloating
 blob
 blog
-bloomers
 blooming
 blooper
 blot
@@ -623,7 +618,6 @@ book
 boondocks
 booted
 booth
-bootie
 booting
 bootlace
 bootleg
@@ -799,7 +793,6 @@ calzone
 camcorder
 cameo
 camera
-camisole
 camper
 campfire
 camping
@@ -925,7 +918,6 @@ causal
 causation
 cause
 causing
-cauterize
 caution
 cautious
 cavalier
@@ -1026,8 +1018,6 @@ chive
 chloride
 chlorine
 choice
-chokehold
-choking
 chomp
 chooser
 choosing
@@ -1437,9 +1427,6 @@ crown
 crucial
 crudely
 crudeness
-cruelly
-cruelness
-cruelty
 crumb
 crummiest
 crummy
@@ -1903,7 +1890,6 @@ divisible
 divisibly
 division
 divisive
-divorcee
 dizziness
 dizzy
 doable
@@ -2274,7 +2260,6 @@ enquirer
 enrage
 enrich
 enroll
-enslave
 ensnare
 ensure
 entail
@@ -2398,8 +2383,6 @@ excluding
 exclusion
 exclusive
 excretion
-excretory
-excursion
 excusable
 excusably
 excuse
@@ -2590,7 +2573,6 @@ finlike
 fiscally
 fit
 five
-flaccid
 flagman
 flagpole
 flagship
@@ -3147,8 +3129,7 @@ happily
 happiness
 happy
 harbor
-hardcopy
-hardcore
+hardcop
 hardcover
 harddisk
 hardened
@@ -3216,7 +3197,6 @@ headrest
 headroom
 headscarf
 headset
-headsman
 headstand
 headstone
 headway
@@ -3582,7 +3562,6 @@ kleenex
 knapsack
 knee
 knelt
-knickers
 knoll
 koala
 kooky
@@ -3649,7 +3628,6 @@ laundry
 laurel
 lavender
 lavish
-laxative
 lazily
 laziness
 lazy
@@ -3772,11 +3750,7 @@ lurk
 lushly
 lushness
 luster
-lustfully
-lustily
-lustiness
 lustrous
-lusty
 luxurious
 luxury
 lying
@@ -3988,7 +3962,6 @@ morphing
 morse
 mortality
 mortally
-mortician
 mortified
 mortify
 mortuary
@@ -4069,7 +4042,6 @@ mutate
 mutation
 mute
 mutilated
-mutilator
 mutiny
 mutt
 mutual
@@ -5743,8 +5715,6 @@ sedate
 sedation
 sedative
 sediment
-seduce
-seducing
 segment
 seismic
 seizing
@@ -5770,8 +5740,6 @@ senorita
 sensation
 sensitive
 sensitize
-sensually
-sensuous
 sepia
 september
 septic
@@ -6408,7 +6376,6 @@ strainer
 straining
 strangely
 stranger
-strangle
 strategic
 strategy
 stratus
@@ -6526,7 +6493,6 @@ sufferer
 suffering
 suffice
 suffix
-suffocate
 suffrage
 sugar
 suggest
@@ -6610,7 +6576,6 @@ swimmer
 swimming
 swimsuit
 swimwear
-swinger
 swinging
 swipe
 swirl
@@ -6964,7 +6929,6 @@ udder
 ultimate
 ultimatum
 ultra
-umbilical
 umbrella
 umpire
 unabashed
@@ -7069,7 +7033,6 @@ undertone
 undertook
 undertow
 underuse
-underwear
 underwent
 underwire
 undesired
